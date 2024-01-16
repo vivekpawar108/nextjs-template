@@ -1,4 +1,4 @@
-<h1 align="center">Next.js Template</h1>
+<h1 align="center">Next.js Template Test</h1>
 <h3 align="center">Full-featured template for JAMstack websites using next.js</h3>
 
 <div align="center">
